@@ -1,6 +1,7 @@
-# Sistema_Gesti-n_CE_Java-OOP-
-Desarrollo de Sistema de Gestión para Centro Educativo en Java (OOP)
-Enunciado
+
+# Desarrollo de Sistema de Gestión para Centro Educativo en Java (OOP)
+
+## Enunciado
 
 Para la gestión de un centro educativo, un programa necesita contemplar las entidades profesor, alumno y administrativo, teniendo en cuenta que todos, a su vez, son personas.
 
